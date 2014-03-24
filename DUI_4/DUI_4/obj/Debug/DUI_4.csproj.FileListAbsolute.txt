@@ -1,0 +1,17 @@
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\DUI_4.exe.config
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\MainWindow.baml
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\MainWindow.g.cs
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\App.g.cs
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4_MarkupCompile.cache
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4.g.resources
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4.Properties.Resources.resources
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4.csproj.GenerateResource.Cache
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\DUI_4.exe
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\DUI_4.pdb
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4.exe
+C:\Users\Saleha Amreen\Desktop\DUI_4\DUI_4\obj\Debug\DUI_4.pdb
