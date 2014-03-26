@@ -1,0 +1,12 @@
+﻿<Window x:Class="DUI_4.dataSelection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="dataSelection" Height="511.94" Width="602.985">
+    <Grid>
+        <Button Content="Money" HorizontalAlignment="Left" Margin="384,201,0,0" VerticalAlignment="Top" Width="89" Height="78" Click="Button_Click_2"/>
+        <Button Content="Death" HorizontalAlignment="Left" Margin="227,196,0,0" VerticalAlignment="Top" Width="100" Height="83" Click="Button_Click_1"/>
+        <Button Content="Users" HorizontalAlignment="Left" Margin="76,196,0,0" VerticalAlignment="Top" Width="90" Height="67" Click="Button_Click"/>
+        <Button Content="Home" HorizontalAlignment="Left" Margin="227,363,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
